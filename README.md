@@ -1,0 +1,1 @@
+# Allegro-AdsClicker-v1.0
